@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mochy Nova</string>
+    <string name="nova_credit_about">Mochy Nova started life as a fork of Mochy Music by realidkroo (github.com/realidkroo/mochy-music), itself built on ViviMusic and Metrolist. Licensed under GPL-3.0.</string>
+    <string name="nova_credit_store">Based on Mochy (github.com/realidkroo/mochy-music) by realidkroo.</string>
+</resources>

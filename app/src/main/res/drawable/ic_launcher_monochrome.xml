@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- themed icon layer, android only reads its alpha -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="292"
+    android:viewportHeight="292">
+    <group android:pivotX="146" android:pivotY="146" android:scaleX="0.62" android:scaleY="0.62">
+        <path
+            android:pathData="M146 40C156 112 180 136 252 146C180 156 156 180 146 252C136 180 112 156 40 146C112 136 136 112 146 40ZM130 128L170 146L130 164Z"
+            android:fillType="evenOdd"
+            android:fillColor="#FFFFFF" />
+    </group>
+</vector>

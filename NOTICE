@@ -1,0 +1,7 @@
+Mochy Nova
+==========
+Forked app from: Mochy Music by realidkroo - https://github.com/realidkroo/mochy-music
+Mochy is itself a fork of ViviMusic and is built on Metrolist.
+This project is distributed under the GNU GPL v3.0 (see LICENSE). It was modified: renamed to
+"Mochy Nova", package changed to com.nova.musicplayer, new dark theme, icon and glass settings.
+Third-party code under providers/ and libraries keep their original authors' credit.
